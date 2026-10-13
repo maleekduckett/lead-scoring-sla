@@ -1,0 +1,90 @@
+Scored 4,100 leads
+
+      leads   pct
+tier             
+Warm   1731  42.2
+Cold   1640  40.0
+Hot     729  17.8
+
+Hot because of a demo or sales request: 563
+Lead source does not fit the creating event: 120
+Leads with a double-submitted event: 71
+
+Example reason: Warm: score 58 = fit 5 (United States) + intent 53 from Pricing Page Visit (27), Webinar Registered (21).
+----
+Assignments audited: 1,085 on 1,021 leads
+
+SLA met, by tier
+      assignments  met_pct
+tier                      
+Cold          469     84.0
+Hot           213     58.2
+Warm          403     83.9
+
+Missed SLAs logged: 229
+what_happened
+logged only             140
+rerouted to U-026        21
+no reroute               16
+rerouted to U-025        15
+rerouted to U-027        10
+rerouted to U-023         8
+escalated to manager      6
+rerouted to U-029         5
+rerouted to U-024         3
+no escalation             3
+rerouted to U-030         2
+
+Process problems found
+issue_type
+missing_followup_email    46
+missing_reroute           16
+missing_second_call       15
+late_reroute               8
+missing_escalation         3
+----
+Meetings booked by SDRs: 135
+Average MEDDPICC fields filled: 3.0 of 8
+
+How often each field was captured
+metrics              39%
+economic_buyer       37%
+decision_criteria    38%
+decision_process     29%
+paper_process        11%
+identified_pain      74%
+champion             36%
+competition          36%
+
+Discovery calls held: 87   SQLs: 54
+
+Flags
+issue_type
+qualified_without_meeting    55
+booked_below_minimum         35
+sql_without_discovery        20
+----
+Tiers
+  Right tier for 4,100 of 4,100 leads (100.0%)
+scored as  Cold  Hot  Warm
+should be                 
+Cold       1640    0     0
+Hot           0  729     0
+Warm          0    0  1731
+  Source check agrees with the key for 4,100 of 4,100 leads
+
+Planted problems
+                    issue  planted  found  false_flags  missed
+     booked_below_minimum       35     35            0       0
+          duplicate_event       70     70            1       0
+             late_reroute        8      8            0       0
+       missing_escalation        3      3            0       0
+   missing_followup_email       46     46            0       0
+          missing_reroute       16     16            0       0
+      missing_second_call       15     15            0       0
+qualified_without_meeting       55     55            0       0
+          source_mismatch      120    120            0       0
+    sql_without_discovery       20     20            0       0
+
+  Found 388 of 388 planted problems. 1 flags had no planted problem behind them.
+  Unplanted flags: duplicate_event: L-03741

@@ -1,0 +1,111 @@
+lead_id,issue_type,detail
+L-00109,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-00128,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-00176,booked_below_minimum,booked with 1 of 8 fields and pain missing
+L-00267,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-00695,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-00700,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-00704,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-00837,booked_below_minimum,booked with 1 of 8 fields and pain missing
+L-00854,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-00863,booked_below_minimum,booked with 1 of 8 fields and pain missing
+L-00983,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-01048,booked_below_minimum,booked with 1 of 8 fields and pain missing
+L-01096,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-01356,booked_below_minimum,booked with 1 of 8 fields and pain missing
+L-01357,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-01368,booked_below_minimum,booked with 1 of 8 fields and pain missing
+L-01611,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-01671,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-02026,booked_below_minimum,booked with 1 of 8 fields and pain missing
+L-02120,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-02298,booked_below_minimum,booked with 1 of 8 fields and pain missing
+L-02320,booked_below_minimum,booked with 1 of 8 fields and pain missing
+L-02487,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-02701,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-03354,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-03396,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-03500,booked_below_minimum,booked with 1 of 8 fields and pain missing
+L-03528,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-03663,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-03757,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-03765,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-03798,booked_below_minimum,booked with 1 of 8 fields and pain missing
+L-03907,booked_below_minimum,booked with 1 of 8 fields and pain missing
+L-03927,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-03940,booked_below_minimum,booked with 0 of 8 fields and pain missing
+L-00018,qualified_without_meeting,status is Qualified but no meeting was booked
+L-00060,qualified_without_meeting,status is Qualified but no meeting was booked
+L-00162,qualified_without_meeting,status is Qualified but no meeting was booked
+L-00198,qualified_without_meeting,status is Qualified but no meeting was booked
+L-00208,qualified_without_meeting,status is Qualified but no meeting was booked
+L-00434,qualified_without_meeting,status is Qualified but no meeting was booked
+L-00524,qualified_without_meeting,status is Qualified but no meeting was booked
+L-00552,qualified_without_meeting,status is Qualified but no meeting was booked
+L-00574,qualified_without_meeting,status is Qualified but no meeting was booked
+L-00602,qualified_without_meeting,status is Qualified but no meeting was booked
+L-00632,qualified_without_meeting,status is Qualified but no meeting was booked
+L-00763,qualified_without_meeting,status is Qualified but no meeting was booked
+L-00867,qualified_without_meeting,status is Qualified but no meeting was booked
+L-00924,qualified_without_meeting,status is Qualified but no meeting was booked
+L-00962,qualified_without_meeting,status is Qualified but no meeting was booked
+L-01035,qualified_without_meeting,status is Qualified but no meeting was booked
+L-01211,qualified_without_meeting,status is Qualified but no meeting was booked
+L-01215,qualified_without_meeting,status is Qualified but no meeting was booked
+L-01304,qualified_without_meeting,status is Qualified but no meeting was booked
+L-01378,qualified_without_meeting,status is Qualified but no meeting was booked
+L-01433,qualified_without_meeting,status is Qualified but no meeting was booked
+L-01498,qualified_without_meeting,status is Qualified but no meeting was booked
+L-01585,qualified_without_meeting,status is Qualified but no meeting was booked
+L-01647,qualified_without_meeting,status is Qualified but no meeting was booked
+L-02031,qualified_without_meeting,status is Qualified but no meeting was booked
+L-02079,qualified_without_meeting,status is Qualified but no meeting was booked
+L-02112,qualified_without_meeting,status is Qualified but no meeting was booked
+L-02318,qualified_without_meeting,status is Qualified but no meeting was booked
+L-02332,qualified_without_meeting,status is Qualified but no meeting was booked
+L-02342,qualified_without_meeting,status is Qualified but no meeting was booked
+L-02480,qualified_without_meeting,status is Qualified but no meeting was booked
+L-02582,qualified_without_meeting,status is Qualified but no meeting was booked
+L-02744,qualified_without_meeting,status is Qualified but no meeting was booked
+L-02756,qualified_without_meeting,status is Qualified but no meeting was booked
+L-02823,qualified_without_meeting,status is Qualified but no meeting was booked
+L-02851,qualified_without_meeting,status is Qualified but no meeting was booked
+L-02861,qualified_without_meeting,status is Qualified but no meeting was booked
+L-02895,qualified_without_meeting,status is Qualified but no meeting was booked
+L-02911,qualified_without_meeting,status is Qualified but no meeting was booked
+L-02954,qualified_without_meeting,status is Qualified but no meeting was booked
+L-03010,qualified_without_meeting,status is Qualified but no meeting was booked
+L-03059,qualified_without_meeting,status is Qualified but no meeting was booked
+L-03089,qualified_without_meeting,status is Qualified but no meeting was booked
+L-03116,qualified_without_meeting,status is Qualified but no meeting was booked
+L-03293,qualified_without_meeting,status is Qualified but no meeting was booked
+L-03315,qualified_without_meeting,status is Qualified but no meeting was booked
+L-03360,qualified_without_meeting,status is Qualified but no meeting was booked
+L-03494,qualified_without_meeting,status is Qualified but no meeting was booked
+L-03511,qualified_without_meeting,status is Qualified but no meeting was booked
+L-03580,qualified_without_meeting,status is Qualified but no meeting was booked
+L-03657,qualified_without_meeting,status is Qualified but no meeting was booked
+L-03912,qualified_without_meeting,status is Qualified but no meeting was booked
+L-03925,qualified_without_meeting,status is Qualified but no meeting was booked
+L-03958,qualified_without_meeting,status is Qualified but no meeting was booked
+L-03976,qualified_without_meeting,status is Qualified but no meeting was booked
+L-00041,sql_without_discovery,marked SQL but no discovery call was held
+L-00119,sql_without_discovery,marked SQL but no discovery call was held
+L-00157,sql_without_discovery,marked SQL but no discovery call was held
+L-00453,sql_without_discovery,marked SQL but no discovery call was held
+L-00700,sql_without_discovery,marked SQL but no discovery call was held
+L-00733,sql_without_discovery,marked SQL but no discovery call was held
+L-00794,sql_without_discovery,marked SQL but no discovery call was held
+L-00980,sql_without_discovery,marked SQL but no discovery call was held
+L-01156,sql_without_discovery,marked SQL but no discovery call was held
+L-01368,sql_without_discovery,marked SQL but no discovery call was held
+L-01424,sql_without_discovery,marked SQL but no discovery call was held
+L-01789,sql_without_discovery,marked SQL but no discovery call was held
+L-02371,sql_without_discovery,marked SQL but no discovery call was held
+L-02542,sql_without_discovery,marked SQL but no discovery call was held
+L-03056,sql_without_discovery,marked SQL but no discovery call was held
+L-03354,sql_without_discovery,marked SQL but no discovery call was held
+L-03393,sql_without_discovery,marked SQL but no discovery call was held
+L-03740,sql_without_discovery,marked SQL but no discovery call was held
+L-03757,sql_without_discovery,marked SQL but no discovery call was held
+L-03815,sql_without_discovery,marked SQL but no discovery call was held

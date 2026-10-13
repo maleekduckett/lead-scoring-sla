@@ -1,0 +1,89 @@
+lead_id,issue_type,detail
+L-01210,late_reroute,rerouted 15 minutes after the missed SLA
+L-01768,late_reroute,rerouted 32 minutes after the missed SLA
+L-02346,late_reroute,rerouted 26 minutes after the missed SLA
+L-02756,late_reroute,rerouted 36 minutes after the missed SLA
+L-02871,late_reroute,rerouted 16 minutes after the missed SLA
+L-03045,late_reroute,rerouted 16 minutes after the missed SLA
+L-03392,late_reroute,rerouted 35 minutes after the missed SLA
+L-03866,late_reroute,rerouted 27 minutes after the missed SLA
+L-01248,missing_escalation,third SLA missed and the manager was never assigned
+L-01768,missing_escalation,third SLA missed and the manager was never assigned
+L-03992,missing_escalation,third SLA missed and the manager was never assigned
+L-00040,missing_followup_email,U-023 did not email after an unanswered call
+L-00094,missing_followup_email,U-025 did not email after an unanswered call
+L-00163,missing_followup_email,U-025 did not email after an unanswered call
+L-00164,missing_followup_email,U-025 did not email after an unanswered call
+L-00295,missing_followup_email,U-023 did not email after an unanswered call
+L-00452,missing_followup_email,U-023 did not email after an unanswered call
+L-00512,missing_followup_email,U-027 did not email after an unanswered call
+L-00640,missing_followup_email,U-023 did not email after an unanswered call
+L-00655,missing_followup_email,U-025 did not email after an unanswered call
+L-00691,missing_followup_email,U-023 did not email after an unanswered call
+L-00720,missing_followup_email,U-027 did not email after an unanswered call
+L-00801,missing_followup_email,U-024 did not email after an unanswered call
+L-00936,missing_followup_email,U-023 did not email after an unanswered call
+L-01021,missing_followup_email,U-024 did not email after an unanswered call
+L-01040,missing_followup_email,U-024 did not email after an unanswered call
+L-01043,missing_followup_email,U-023 did not email after an unanswered call
+L-01054,missing_followup_email,U-029 did not email after an unanswered call
+L-01111,missing_followup_email,U-025 did not email after an unanswered call
+L-01136,missing_followup_email,U-023 did not email after an unanswered call
+L-01148,missing_followup_email,U-029 did not email after an unanswered call
+L-01285,missing_followup_email,U-023 did not email after an unanswered call
+L-01377,missing_followup_email,U-024 did not email after an unanswered call
+L-01510,missing_followup_email,U-025 did not email after an unanswered call
+L-01520,missing_followup_email,U-023 did not email after an unanswered call
+L-01550,missing_followup_email,U-023 did not email after an unanswered call
+L-01685,missing_followup_email,U-025 did not email after an unanswered call
+L-01914,missing_followup_email,U-025 did not email after an unanswered call
+L-02436,missing_followup_email,U-025 did not email after an unanswered call
+L-02549,missing_followup_email,U-025 did not email after an unanswered call
+L-02603,missing_followup_email,U-023 did not email after an unanswered call
+L-02611,missing_followup_email,U-029 did not email after an unanswered call
+L-02646,missing_followup_email,U-023 did not email after an unanswered call
+L-02774,missing_followup_email,U-023 did not email after an unanswered call
+L-02916,missing_followup_email,U-023 did not email after an unanswered call
+L-03010,missing_followup_email,U-025 did not email after an unanswered call
+L-03264,missing_followup_email,U-027 did not email after an unanswered call
+L-03326,missing_followup_email,U-027 did not email after an unanswered call
+L-03337,missing_followup_email,U-027 did not email after an unanswered call
+L-03463,missing_followup_email,U-023 did not email after an unanswered call
+L-03499,missing_followup_email,U-027 did not email after an unanswered call
+L-03628,missing_followup_email,U-025 did not email after an unanswered call
+L-03853,missing_followup_email,U-026 did not email after an unanswered call
+L-03906,missing_followup_email,U-025 did not email after an unanswered call
+L-03930,missing_followup_email,U-025 did not email after an unanswered call
+L-03978,missing_followup_email,U-025 did not email after an unanswered call
+L-03979,missing_followup_email,U-025 did not email after an unanswered call
+L-00552,missing_reroute,U-025 missed the SLA and nobody was assigned next
+L-00594,missing_reroute,U-025 missed the SLA and nobody was assigned next
+L-00632,missing_reroute,U-025 missed the SLA and nobody was assigned next
+L-01139,missing_reroute,U-024 missed the SLA and nobody was assigned next
+L-01775,missing_reroute,U-024 missed the SLA and nobody was assigned next
+L-01858,missing_reroute,U-026 missed the SLA and nobody was assigned next
+L-02086,missing_reroute,U-029 missed the SLA and nobody was assigned next
+L-02379,missing_reroute,U-025 missed the SLA and nobody was assigned next
+L-02618,missing_reroute,U-026 missed the SLA and nobody was assigned next
+L-03059,missing_reroute,U-026 missed the SLA and nobody was assigned next
+L-03462,missing_reroute,U-030 missed the SLA and nobody was assigned next
+L-03511,missing_reroute,U-023 missed the SLA and nobody was assigned next
+L-03580,missing_reroute,U-029 missed the SLA and nobody was assigned next
+L-03657,missing_reroute,U-025 missed the SLA and nobody was assigned next
+L-03868,missing_reroute,U-023 missed the SLA and nobody was assigned next
+L-03920,missing_reroute,U-025 missed the SLA and nobody was assigned next
+L-00094,missing_second_call,U-025 did not call again later for a Hot lead
+L-00163,missing_second_call,U-025 did not call again later for a Hot lead
+L-00237,missing_second_call,U-023 did not call again later for a Hot lead
+L-00919,missing_second_call,U-023 did not call again later for a Hot lead
+L-01569,missing_second_call,U-023 did not call again later for a Hot lead
+L-01972,missing_second_call,U-023 did not call again later for a Hot lead
+L-02096,missing_second_call,U-030 did not call again later for a Hot lead
+L-02137,missing_second_call,U-025 did not call again later for a Hot lead
+L-02516,missing_second_call,U-027 did not call again later for a Hot lead
+L-02611,missing_second_call,U-029 did not call again later for a Hot lead
+L-02613,missing_second_call,U-024 did not call again later for a Hot lead
+L-02614,missing_second_call,U-024 did not call again later for a Hot lead
+L-02846,missing_second_call,U-026 did not call again later for a Hot lead
+L-03264,missing_second_call,U-027 did not call again later for a Hot lead
+L-03373,missing_second_call,U-024 did not call again later for a Hot lead

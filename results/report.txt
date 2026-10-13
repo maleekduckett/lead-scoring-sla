@@ -1,0 +1,25 @@
+
+Does the tier predict a booked meeting? (net-new leads an SDR worked)
+tier  leads  meetings_booked  booked_pct  sqls
+ Hot    149               35        23.5    10
+Warm    403               88        21.8    21
+Cold    469               12         2.6     3
+
+SLA met, by tier and attempt (attempt 1 is the first SDR, 2 and 3 are reroutes)
+tier  attempt  assignments  met  met_pct
+ Hot        1          149   95     63.8
+ Hot        2           42   16     38.1
+ Hot        3           22   13     59.1
+Warm        1          403  338     83.9
+Cold        1          469  394     84.0
+
+SLA met, by SDR (Hot leads only)
+  sdr  hot_assignments  met  met_pct
+U-026               33   16     48.5
+U-028                2    1     50.0
+U-029               23   12     52.2
+U-025               48   28     58.3
+U-027               17   10     58.8
+U-023               58   35     60.3
+U-030                6    4     66.7
+U-024               26   18     69.2
