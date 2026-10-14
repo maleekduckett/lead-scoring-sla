@@ -66,6 +66,14 @@ The reason is in `results/lead_scores.csv`, so a rep can see the source and the 
 
 Hot is the hardest tier to hit. Five minutes is tight, and the second and third SDRs do worse than the first (see `results/report.txt`).
 
+### Charts
+
+![Tier mix](docs/tier_mix.png)
+
+![Response clocks met](docs/sla_met.png)
+
+![Meetings booked by tier](docs/booked_by_tier.png)
+
 ### Problems found
 
 Planted in the data, then looked for by the audit scripts:
@@ -105,6 +113,7 @@ The tiers separate Cold from the rest well. Hot and Warm are almost the same. In
 | `check_qualification.py` | MEDDPICC completeness and the SQL rule |
 | `grade.py` | Compares everything to the answer key. The only file that reads it |
 | `report.py`, `sql/report.sql` | Summary tables, written in SQL |
+| `charts.py` | Draws the charts in `docs/` |
 | `tests/test_rules.py` | Checks the clock (nights, weekends, daylight saving) and the scoring rules |
 
 ## Run it
@@ -117,6 +126,7 @@ python audit_sla.py
 python check_qualification.py
 python grade.py
 python report.py
+python charts.py   # needs matplotlib
 python tests/test_rules.py
 ```
 
