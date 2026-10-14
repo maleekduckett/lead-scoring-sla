@@ -97,7 +97,7 @@ Planted in the data, then looked for by the audit scripts:
 | Marked SQL with no discovery call | 20 | 20 |
 | Marked Qualified with no meeting booked | 55 | 55 |
 
-**Read this honestly.** The answer key comes from the data generator, which follows the same written rules as this code. A perfect score shows the code applies the rules correctly. It does not show these are the right rules for a real business. The one extra flag was a real double submit that the generator did not plant, and the audit was correct to flag it.
+The answer key comes from the data generator, which follows the same written rules as this code. A perfect score shows the code applies the rules correctly. It doesn't show these are the right rules for a real business. The one extra flag was a real double submit that the generator did not plant, and the audit was correct to flag it.
 
 ### Does the tier predict outcomes?
 
@@ -107,7 +107,7 @@ Planted in the data, then looked for by the audit scripts:
 | Warm | 403 | 88 | 21.8% |
 | Cold | 469 | 12 | 2.6% |
 
-The tiers separate Cold from the rest well. Hot and Warm are almost the same. In this dataset the outcomes were not built to depend on the tier, so I would not read much into it. On real data, this is the first thing I would check, and if Hot and Warm look alike I would recalibrate the weights.
+The tiers separate Cold or Passive leads from the other lead tiers pretty well. Hot and Warm are almost the same. In this dataset the outcomes weren't built to depend on the tier, so I wouldn't read much into it. On real data, this is the first thing I would check, and if Hot and Warm look alike I would recalibrate the weights.
 
 ## What the files do
 
