@@ -7,7 +7,7 @@ A new lead should get the right kind of attention, fast. This project does four 
 3. Audits the response-time rules (SLAs) for the 1,021 net-new leads that went to SDRs.
 4. Checks that SDR qualification (MEDDPICC) and the path to SQL follow the policy.
 
-It runs on the synthetic CRM data from [gtm-synthetic-data](https://github.com/maleekduckett/gtm-synthetic-data) and builds on [lead-account-matching](https://github.com/maleekduckett/lead-account-matching), which decides who owns each lead. Every record is invented.
+It runs on the synthetic CRM data from [gtm-synthetic-data](https://github.com/maleekduckett/gtm-synthetic-data)(private repo with reusable synthetic data for projects) and builds on [lead-account-matching](https://github.com/maleekduckett/lead-account-matching), which decides who owns each lead. Every record is invented.
 
 ![How a lead gets its tier](docs/scoring-tiers.jpg)
 
