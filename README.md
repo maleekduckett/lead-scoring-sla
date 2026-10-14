@@ -9,6 +9,8 @@ A new lead should get the right kind of attention, fast. This project does four 
 
 It runs on the synthetic CRM data from [gtm-synthetic-data](https://github.com/maleekduckett/gtm-synthetic-data) and builds on [lead-account-matching](https://github.com/maleekduckett/lead-account-matching), which decides who owns each lead. Every record is invented.
 
+![How a lead gets its tier](docs/scoring-tiers.jpg)
+
 ## The policy this implements
 
 - Net-new leads go to inbound SDRs, who qualify them with MEDDPICC. Not every field is needed to book a discovery meeting. The minimum is pain plus one more field.
@@ -22,6 +24,8 @@ It runs on the synthetic CRM data from [gtm-synthetic-data](https://github.com/m
 | Cold | Next business day (8 business hours) | Logged |
 
 After a call that is not answered, the SDR sends a follow-up email. For a Hot lead, the SDR also calls again later.
+
+![The response clock](docs/sla-clock.jpg)
 
 ## How a tier is decided
 
@@ -65,6 +69,8 @@ The reason is in `results/lead_scores.csv`, so a rep can see the source and the 
 | SDR meetings booked | 135 |
 
 Hot is the hardest tier to hit. Five minutes is tight, and the second and third SDRs do worse than the first (see `results/report.txt`).
+
+![What the audit found](docs/audit-findings.jpg)
 
 ### Charts
 
